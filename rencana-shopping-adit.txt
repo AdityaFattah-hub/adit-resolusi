@@ -1,8 +1,11 @@
 rencana shopping
 - beli sepatu
+  * converse
 - beli vest
 - beli celana chino
   * warna hitam
 - beli beanie hat
+
 - beli aksesoris
  * jam tangan dan gelang
+
